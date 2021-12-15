@@ -39,3 +39,9 @@ function printOrderTotal(responseString) {
   console.log('Стоимость заказа: ' + orderSubTotal ? orderSubTotal + ' руб.' : 'Бесплатно');
 };
 ```
+
+["К оглавлению"](README.md)
+
+["< Так, стоп, а чо там в предыдущей"](task_4.md)
+
+### The end
