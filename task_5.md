@@ -40,8 +40,8 @@ function printOrderTotal(responseString) {
 };
 ```
 
-["К оглавлению"](README.md)
+[К оглавлению](README.md)
 
-["< Так, стоп, а чо там в предыдущей"](task_4.md)
+[< Так, стоп, а чо там в предыдущей](task_4.md)
 
 ### The end
